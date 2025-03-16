@@ -39,7 +39,7 @@ figure figcaption {
     margin: 10px 0;
 }
 
-.right-div * {
+* {
     margin: 0;
     padding: 0; 
 }
